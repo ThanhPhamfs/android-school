@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Player2022</string>
+    <string name="btnOK">OK</string>
+    <string name="btnCancle">Cancle</string>
+</resources>

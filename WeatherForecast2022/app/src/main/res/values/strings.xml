@@ -1,0 +1,12 @@
+<resources>
+    <string name="author">PhamVanThanh</string>
+    <string name="app_name">WeatherForecast2022</string>
+    <string name="open_weather_api_key">2825dc8c6ee4f5f31655394bf4756aff</string>
+    <string-array name="locations">
+        <item>Hanoi</item>
+        <item>Ho Chi Minh City</item>
+        <item>London</item>
+        <item>New York</item>
+        <item>Tokyo</item>
+    </string-array>
+</resources>
